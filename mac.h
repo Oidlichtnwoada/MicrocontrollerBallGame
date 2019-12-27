@@ -1,0 +1,6 @@
+#ifndef mac_h
+#define mac_h
+
+const uint8_t mac[6] = { 0x58, 0xbd, 0xa3, 0x4b, 0x9b, 0x8a };
+
+#endif
